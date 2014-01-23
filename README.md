@@ -14,3 +14,7 @@ This is new spree wishlist extension for our application
 
 3. To setup the asset pipeline includes and copy migrations run: `rails g spree_wishlist:install`
 
+
+```shell
+[Piyush Awasthi](awasthi.piyush8@gmail.com)
+```
