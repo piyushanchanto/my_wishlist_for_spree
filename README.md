@@ -7,7 +7,7 @@ This is new spree wishlist extension for our application
 1. Add the following to your Gemfile
 
 <pre>
-    gem 'spree_wishlist', :git => 'git://github.com/spree/spree_wishlist.git'
+    gem 'spree_wishlist', :git => 'git://github.com/piyushanchanto/my_wishlist_for_spree'
 </pre>
 
 2. Run `bundle install`

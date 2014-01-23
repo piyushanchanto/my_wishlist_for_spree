@@ -1,0 +1,3 @@
+<%= form_for @wishlist, :html => {:class => 'ajax_form', :id => 'change_wishlist_accessibility'} do |f| %>
+  <%= f.radio_button :is_private, true %>&nbsp;<%= Spree.t(:private) %>
+<% end -%>
